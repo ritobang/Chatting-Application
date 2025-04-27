@@ -66,7 +66,7 @@ public class server implements ActionListener{
         icon3.setBounds(405,18,10,25);
         p1.add(icon3);
 
-        JLabel name = new JLabel("Sharma Ji");
+        JLabel name = new JLabel("Alice");
         name.setBounds(80,8,150,30);
         name.setForeground(Color.WHITE);
         name.setFont(new Font("SAN_SERIF",Font.BOLD,18));
